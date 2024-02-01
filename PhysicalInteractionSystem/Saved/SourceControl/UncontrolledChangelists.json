@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Audio/Fire01.uasset"
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Audio/Fire01.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/Demo/BP_FirstPersonCharacter_Demo.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/PC_PIS.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/Demo/BP_FirstPersonCharacter_Custom.uasset"
 			]
 		}
 	]
