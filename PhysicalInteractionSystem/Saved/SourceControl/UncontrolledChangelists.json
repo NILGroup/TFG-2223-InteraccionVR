@@ -10,7 +10,10 @@
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/PC_PIS.uasset",
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/Maps/Demo.umap",
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Blueprints/VRGameMode.uasset",
-				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/BP_DoorHandle.uasset"
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/BP_DoorHandle.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/BP_PickUp.uasset",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/Maps/Steaming/DebugRoom.umap",
+				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/Misk/GM_PIS.uasset"
 			]
 		}
 	]
