@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/Maps/Demo.umap",
+				"D:/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/VRTemplate/Audio/Fire01.uasset",
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/VR_TFG_Pawn.uasset",
 				"D:/GitHub/TFG-2324-InteraccionVR/PhysicalInteractionSystem/Content/PhysicalS/BP/Character/PC_PIS.uasset",
