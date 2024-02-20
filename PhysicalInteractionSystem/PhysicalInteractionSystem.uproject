@@ -31,6 +31,16 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "SenseGlove",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5e1d408f517b4966a269ec1035de0b9e",
+			"SupportedTargetPlatforms": [
+				"Android",
+				"Linux",
+				"Win64"
+			]
 		}
 	]
 }
