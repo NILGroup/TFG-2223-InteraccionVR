@@ -1,1 +1,7 @@
 id,user_id,scenario_type,event_state,event_type,event_datetime
+0, "0","Default", "Completed", "Start", "2024-3-20 12:53:11"
+1, "0","S1_BasicMechanics", "Started", "S1_Introduction", "2024-3-20 12:53:13"
+2, "0","S1_BasicMechanics", "Completed", "S1_Introduction", "2024-3-20 12:53:33"
+3, "0","S1_BasicMechanics", "Started", "S1_Movement", "2024-3-20 12:53:33"
+4, "0","Default", "Completed", "Start", "2024-3-20 12:57:19"
+5, "0","S1_BasicMechanics", "Started", "S1_Introduction", "2024-3-20 12:57:22"
