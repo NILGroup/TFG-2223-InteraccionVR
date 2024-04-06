@@ -105,3 +105,5 @@ id,user_id,scenario_type,event_state,event_type,event_datetime
 103, "2","S1_BasicMechanics", "Started", "S1_Introduction", "2024-4-6 17:33:20"
 104, "2","S1_BasicMechanics", "Completed", "S1_Introduction", "2024-4-6 17:33:40"
 105, "2","S1_BasicMechanics", "Started", "S1_Movement", "2024-4-6 17:33:40"
+106, "0","Default", "Completed", "Start", "2024-4-6 17:39:27"
+107, "2","S1_BasicMechanics", "Started", "S1_Introduction", "2024-4-6 17:39:30"
