@@ -111,3 +111,7 @@ id,user_id,scenario_type,event_state,event_type,event_datetime
 109, "8","S1_BasicMechanics", "Started", "S1_Introduction", "2024-4-6 18:46:19"
 110, "8","S1_BasicMechanics", "Completed", "S1_Introduction", "2024-4-6 18:46:39"
 111, "8","S1_BasicMechanics", "Started", "S1_Movement", "2024-4-6 18:46:39"
+112, "0","Default", "Completed", "Start", "2024-4-6 18:52:0"
+113, "9","S1_BasicMechanics", "Started", "S1_Introduction", "2024-4-6 18:52:3"
+114, "9","S1_BasicMechanics", "Completed", "S1_Introduction", "2024-4-6 18:52:23"
+115, "9","S1_BasicMechanics", "Started", "S1_Movement", "2024-4-6 18:52:23"
