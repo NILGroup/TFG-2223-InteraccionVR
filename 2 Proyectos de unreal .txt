@@ -1,0 +1,5 @@
+2 Proyectos de unreal: 
+- Mandos: RR_Gameinstance
+	- Main Menu NOSG --> el usuario pincha para poner el nombre
+- Guantes: RR_SG_Gameinstance
+	- Blueprint: TFG_SG_BP_MainMenuActor
