@@ -1,1429 +1,1434 @@
-id,user_id,scenario_type,input_type,input_state,event_datetime
-0, "2", "Develop", "IA_Grab_Right", "Started", "2024-1-19 17:20:59"
-1, "2", "Develop", "IA_Grab_Right", "Completed", "2024-1-19 17:21:0"
-2, "2", "Develop", "IA_Grab_Right", "Started", "2024-1-19 17:21:0"
-3, "2", "Develop", "IA_Grab_Right", "Completed", "2024-1-19 17:21:0"
-4, "2", "Develop", "IA_Menu_Interact_Right", "Started", "2024-1-19 17:21:1"
-5, "2", "Develop", "IA_Menu_Interact_Right", "Completed", "2024-1-19 17:21:1"
-6, "2", "Develop", "IA_Menu_Interact_Right", "Started", "2024-1-19 17:21:2"
-7, "2", "Develop", "IA_Menu_Interact_Right", "Completed", "2024-1-19 17:21:2"
-8, "2", "Develop", "IA_Move_Right", "Started", "2024-1-19 17:21:3"
-9, "2", "Develop", "IA_Move_Right", "Completed", "2024-1-19 17:21:4"
-10, "2", "Develop", "IA_Move_Right", "Started", "2024-1-19 17:21:4"
-11, "2", "Develop", "IA_Move_Right", "Completed", "2024-1-19 17:21:5"
-12, "2", "Develop", "IA_Menu_Toggle_Right", "Started", "2024-1-19 17:21:6"
-13, "2", "Develop", "IA_Menu_Toggle_Right", "Completed", "2024-1-19 17:21:6"
-14, "2", "Develop", "IA_Menu_Toggle_Right", "Started", "2024-1-19 17:21:7"
-15, "2", "Develop", "IA_Menu_Toggle_Right", "Completed", "2024-1-19 17:21:7"
-16, "2", "Develop", "IA_Menu_Toggle_Left", "Started", "2024-1-19 17:21:10"
-17, "2", "Develop", "IA_Menu_Toggle_Left", "Completed", "2024-1-19 17:21:10"
-18, "2", "Develop", "IA_Menu_Toggle_Left", "Started", "2024-1-19 17:21:11"
-19, "2", "Develop", "IA_Menu_Toggle_Left", "Completed", "2024-1-19 17:21:11"
-20, "2", "Develop", "IA_Menu_Interact_Left", "Started", "2024-1-19 17:21:13"
-21, "2", "Develop", "IA_Menu_Interact_Left", "Completed", "2024-1-19 17:21:13"
-22, "2", "Develop", "IA_Menu_Interact_Left", "Started", "2024-1-19 17:21:13"
-23, "2", "Develop", "IA_Menu_Interact_Left", "Completed", "2024-1-19 17:21:13"
-24, "2", "Develop", "IA_Grab_Left", "Started", "2024-1-19 17:21:14"
-25, "2", "Develop", "IA_Grab_Left", "Completed", "2024-1-19 17:21:14"
-26, "2", "Develop", "IA_Grab_Left", "Started", "2024-1-19 17:21:15"
-27, "2", "Develop", "IA_Grab_Left", "Completed", "2024-1-19 17:21:15"
-28, "2", "Develop", "IA_Move_Right", "Started", "2024-1-19 17:22:9"
-29, "2", "Develop", "IA_Move_Right", "Completed", "2024-1-19 17:22:10"
-30, "2", "Develop", "IA_Move_Right", "Started", "2024-1-19 17:22:12"
-31, "2", "Develop", "IA_Move_Right", "Completed", "2024-1-19 17:22:12"
-32, "2", "Develop", "IA_Menu_Interact_Right", "Started", "2024-1-19 17:22:13"
-33, "2", "Develop", "IA_Menu_Interact_Right", "Completed", "2024-1-19 17:22:13"
-34, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:7"
-35, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:7"
-36, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:28"
-37, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:30"
-38, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:32"
-39, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:32"
-40, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:33"
-41, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:34"
-42, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:34"
-43, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:34"
-44, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:35"
-45, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:35"
-46, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:35"
-47, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:36"
-48, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:36"
-49, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:36"
-50, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:36"
-51, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:36"
-52, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:36"
-53, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:37"
-54, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:37"
-55, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:37"
-56, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:43"
-57, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:43"
-58, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:43"
-59, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:44"
-60, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:44"
-61, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:45"
-62, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:52"
-63, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:52"
-64, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:52"
-65, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:52"
-66, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:53"
-67, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:53"
-68, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:53"
-69, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:53"
-70, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:54"
-71, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:54"
-72, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:54"
-73, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:54"
-74, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:54"
-75, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:55"
-76, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:55"
-77, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:55"
-78, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:23:55"
-79, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:23:55"
-80, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:57"
-81, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:57"
-82, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:58"
-83, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:58"
-84, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:58"
-85, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:58"
-86, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:23:59"
-87, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:23:59"
-88, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:24:0"
-89, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:24:0"
-90, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:2"
-91, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:14"
-92, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:16"
-93, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:37"
-94, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:24:40"
-95, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:24:40"
-96, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:41"
-97, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:43"
-98, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:45"
-99, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:46"
-100, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:48"
-101, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:48"
-102, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:49"
-103, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:49"
-104, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:49"
-105, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:50"
-106, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:50"
-107, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:50"
-108, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:24:52"
-109, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:24:52"
-110, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:54"
-111, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:54"
-112, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 11:24:55"
-113, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 11:24:55"
-114, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:56"
-115, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:56"
-116, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:24:57"
-117, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:24:58"
-118, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:28:42"
-119, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:28:46"
-120, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:28:48"
-121, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:28:48"
-122, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:29:44"
-123, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:29:45"
-124, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:33:10"
-125, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:33:23"
-126, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:33:24"
-127, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:33:25"
-128, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 11:33:25"
-129, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 11:33:25"
-130, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:12"
-131, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:14"
-132, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:7:37"
-133, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:7:38"
-134, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:39"
-135, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:40"
-136, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:41"
-137, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:42"
-138, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:46"
-139, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:47"
-140, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:47"
-141, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:48"
-142, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:48"
-143, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:49"
-144, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:50"
-145, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:50"
-146, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:51"
-147, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:52"
-148, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:53"
-149, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:53"
-150, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:54"
-151, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:55"
-152, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:56"
-153, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:7:58"
-154, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:7:59"
-155, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:8:0"
-156, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:11:41"
-157, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:11:41"
-158, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:11:42"
-159, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:11:42"
-160, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:43"
-161, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:43"
-162, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:44"
-163, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:44"
-164, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:46"
-165, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:46"
-166, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:46"
-167, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:47"
-168, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:48"
-169, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:11:48"
-170, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:48"
-171, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:11:48"
-172, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:11:49"
-173, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:49"
-174, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:11:49"
-175, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:49"
-176, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:11:51"
-177, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:11:51"
-178, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:11:53"
-179, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:11:53"
-180, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:13:9"
-181, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:13:9"
-182, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:26:32"
-183, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:26:32"
-184, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:26:35"
-185, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:26:35"
-186, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:29:33"
-187, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:29:33"
-188, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:33:3"
-189, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:33:3"
-190, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:33:4"
-191, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:33:7"
-192, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:33:7"
-193, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:33:8"
-194, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:33:9"
-195, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:33:10"
-196, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:35:46"
-197, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:35:47"
-198, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:35:47"
-199, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:41:9"
-200, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:41:10"
-201, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:11"
-202, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:19"
-203, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:25"
-204, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:26"
-205, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:29"
-206, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:29"
-207, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:31"
-208, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:33"
-209, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:36"
-210, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:38"
-211, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:39"
-212, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:39"
-213, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:41"
-214, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:41"
-215, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:41:41"
-216, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:41:41"
-217, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-3-21 12:45:44"
-218, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-3-21 12:45:44"
-219, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:45"
-220, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:45:45"
-221, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:47"
-222, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:45:47"
-223, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:49"
-224, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:45:50"
-225, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:52"
-226, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:45:52"
-227, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:54"
-228, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:45:54"
-229, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:45:59"
-230, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:46:1"
-231, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:46:2"
-232, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:46:2"
-233, "0", "S1_BasicMechanics", "", "Started", "2024-3-21 12:46:8"
-234, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-3-21 12:46:9"
-235, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:39:3"
-236, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:39:3"
-237, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:39:4"
-238, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:39:4"
-239, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:39:6"
-240, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:39:6"
-241, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:39:18"
-242, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:39:18"
-243, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:39:26"
-244, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:39:26"
-245, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:43:36"
-246, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:43:36"
-247, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 16:43:37"
-248, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 16:43:37"
-249, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:14:50"
-250, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:14:50"
-251, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:14:56"
-252, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:14:56"
-253, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:17:10"
-254, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:17:10"
-255, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:17:10"
-256, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:17:10"
-257, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:17:15"
-258, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:17:15"
-259, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:17:16"
-260, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:17:16"
-261, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:19:20"
-262, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:19:20"
-263, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:19:21"
-264, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:19:21"
-265, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:19:21"
-266, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:19:21"
-267, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:19:25"
-268, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:19:25"
-269, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:19:26"
-270, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:19:26"
-271, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:20:58"
-272, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:20:58"
-273, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:20:59"
-274, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:20:59"
-275, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:22:55"
-276, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:22:55"
-277, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:23:41"
-278, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:23:41"
-279, "0", "MainMenu", "", "Started", "2024-4-1 18:28:31"
-280, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:31"
-281, "0", "MainMenu", "", "Started", "2024-4-1 18:28:32"
-282, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:32"
-283, "0", "MainMenu", "", "Started", "2024-4-1 18:28:32"
-284, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:33"
-285, "0", "MainMenu", "", "Started", "2024-4-1 18:28:33"
-286, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:33"
-287, "0", "MainMenu", "", "Started", "2024-4-1 18:28:33"
-288, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:33"
-289, "0", "MainMenu", "", "Started", "2024-4-1 18:28:33"
-290, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:34"
-291, "0", "MainMenu", "", "Started", "2024-4-1 18:28:34"
-292, "0", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-1 18:28:34"
-293, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:29:53"
-294, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:29:53"
-295, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:29:59"
-296, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:29:59"
-297, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:1"
-298, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:1"
-299, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:3"
-300, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:3"
-301, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:4"
-302, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:4"
-303, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:5"
-304, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:5"
-305, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:5"
-306, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:5"
-307, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:5"
-308, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:5"
-309, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:6"
-310, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:6"
-311, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:6"
-312, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:6"
-313, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:6"
-314, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:6"
-315, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:7"
-316, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:7"
-317, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:7"
-318, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:7"
-319, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:7"
-320, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:7"
-321, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:8"
-322, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:8"
-323, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:8"
-324, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:8"
-325, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:8"
-326, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:8"
-327, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:8"
-328, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:9"
-329, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:9"
-330, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:9"
-331, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:9"
-332, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:9"
-333, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:9"
-334, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:9"
-335, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:10"
-336, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:10"
-337, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:10"
-338, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:11"
-339, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:11"
-340, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:11"
-341, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:11"
-342, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:11"
-343, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:11"
-344, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:11"
-345, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:12"
-346, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:12"
-347, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:12"
-348, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:12"
-349, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:12"
-350, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:12"
-351, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:12"
-352, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:12"
-353, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:13"
-354, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:13"
-355, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:13"
-356, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:13"
-357, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:13"
-358, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:13"
-359, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:13"
-360, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:13"
-361, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:13"
-362, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:14"
-363, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:14"
-364, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:14"
-365, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:14"
-366, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:14"
-367, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:14"
-368, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:14"
-369, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:14"
-370, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:14"
-371, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:14"
-372, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:15"
-373, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:15"
-374, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:15"
-375, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:15"
-376, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:15"
-377, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:15"
-378, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:15"
-379, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:15"
-380, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:15"
-381, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:15"
-382, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:16"
-383, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:16"
-384, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:16"
-385, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:16"
-386, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:16"
-387, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:16"
-388, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:16"
-389, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:16"
-390, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:16"
-391, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-392, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:17"
-393, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-394, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:17"
-395, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-396, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:17"
-397, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-398, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:17"
-399, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-400, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:17"
-401, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:17"
-402, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-403, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:18"
-404, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-405, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:18"
-406, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-407, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:18"
-408, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-409, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:18"
-410, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-411, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:18"
-412, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:18"
-413, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:19"
-414, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:19"
-415, "1", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:30:19"
-416, "1", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:30:19"
-417, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:33:40"
-418, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:33:40"
-419, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:33:41"
-420, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:33:41"
-421, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:33:41"
-422, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:33:41"
-423, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:33:47"
-424, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:33:47"
-425, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:33:47"
-426, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:33:48"
-427, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:35"
-428, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:36"
-429, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:36"
-430, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:36"
-431, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:36"
-432, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:36"
-433, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:37"
-434, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:37"
-435, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:48"
-436, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:49"
-437, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:50"
-438, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:50"
-439, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:51"
-440, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:52"
-441, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:52"
-442, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:52"
-443, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:52"
-444, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:52"
-445, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:52"
-446, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:52"
-447, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:52"
-448, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-449, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:53"
-450, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-451, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:53"
-452, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-453, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:53"
-454, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-455, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:53"
-456, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-457, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:53"
-458, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:53"
-459, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:54"
-460, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:54"
-461, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:54"
-462, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:54"
-463, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:54"
-464, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:54"
-465, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:54"
-466, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:54"
-467, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:54"
-468, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:54"
-469, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:55"
-470, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:55"
-471, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:55"
-472, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:55"
-473, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:55"
-474, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:55"
-475, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:55"
-476, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:55"
-477, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:55"
-478, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:55"
-479, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:56"
-480, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:56"
-481, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:56"
-482, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:56"
-483, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:56"
-484, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:56"
-485, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:57"
-486, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:57"
-487, "3", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:37:57"
-488, "3", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:37:58"
-489, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:27"
-490, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:27"
-491, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:27"
-492, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:28"
-493, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:28"
-494, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:28"
-495, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:28"
-496, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:28"
-497, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:58"
-498, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:58"
-499, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:42:58"
-500, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:42:58"
-501, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:43:6"
-502, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:43:6"
-503, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:43:28"
-504, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:43:28"
-505, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:43:28"
-506, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:43:28"
-507, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:43:29"
-508, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:48:51"
-509, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:48:51"
-510, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 18:48:52"
-511, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 18:48:52"
-512, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 18:49:16"
-513, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 18:49:17"
-514, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:17"
-515, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:19"
-516, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:20"
-517, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:20"
-518, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:24"
-519, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:25"
-520, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:25"
-521, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:26"
-522, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:26"
-523, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:27"
-524, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:27"
-525, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:28"
-526, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 18:49:29"
-527, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 18:49:30"
-528, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:7:49"
-529, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:7:49"
-530, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:7:53"
-531, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:7:53"
-532, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:7:54"
-533, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:7:54"
-534, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:8:11"
-535, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:8:11"
-536, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:8:13"
-537, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:8:13"
-538, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-1 19:8:16"
-539, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-1 19:8:17"
-540, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:8:53"
-541, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:8:55"
-542, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:8:56"
-543, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:8:58"
-544, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:1"
-545, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:4"
-546, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:16"
-547, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:19"
-548, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:9:38"
-549, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:9:39"
-550, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:9:40"
-551, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:9:40"
-552, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:41"
-553, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:44"
-554, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:44"
-555, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:48"
-556, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:49"
-557, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:51"
-558, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:51"
-559, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:53"
-560, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:53"
-561, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:56"
-562, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:9:56"
-563, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:9:58"
-564, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:0"
-565, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:1"
-566, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:2"
-567, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:2"
-568, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:4"
-569, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:5"
-570, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:6"
-571, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:6"
-572, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:10:9"
-573, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:10:9"
-574, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:10:10"
-575, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:10:11"
-576, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:10:12"
-577, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:10:12"
-578, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:10:13"
-579, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:10:14"
-580, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:15"
-581, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:15"
-582, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:15"
-583, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:16"
-584, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:16"
-585, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:17"
-586, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-1 19:10:17"
-587, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-1 19:10:18"
-588, "0", "S1_BasicMechanics", "", "Started", "2024-4-1 19:10:20"
-589, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-1 19:10:20"
-590, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:0:3"
-591, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:0:4"
-592, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:5"
-593, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:6"
-594, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:0:12"
-595, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:0:12"
-596, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:14"
-597, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:15"
-598, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:17"
-599, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:17"
-600, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:18"
-601, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:20"
-602, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:21"
-603, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:24"
-604, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:25"
-605, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:28"
-606, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:36"
-607, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:46"
-608, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:50"
-609, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:51"
-610, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:52"
-611, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:52"
-612, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:53"
-613, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:53"
-614, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:0:53"
-615, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:0:54"
-616, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:18:23"
-617, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:18:24"
-618, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:18:31"
-619, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:18:31"
-620, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:18:31"
-621, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:18:36"
-622, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:18:37"
-623, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:23:33"
-624, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:23:33"
-625, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:23:40"
-626, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:1"
-627, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:4"
-628, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:7"
-629, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:11"
-630, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:14"
-631, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:24:19"
-632, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:24:19"
-633, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:21"
-634, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:21"
-635, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:22"
-636, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:23"
-637, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:23"
-638, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:24"
-639, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:25"
-640, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:26"
-641, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:27"
-642, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:29"
-643, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:30"
-644, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:30"
-645, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:31"
-646, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:32"
-647, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:32"
-648, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:34"
-649, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:24:35"
-650, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:24:35"
-651, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:36"
-652, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:40"
-653, "0", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 12:24:42"
-654, "0", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 12:24:43"
-655, "0", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 12:24:44"
-656, "0", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 12:24:45"
-657, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:30:10"
-658, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:30:10"
-659, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:30:10"
-660, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:30:10"
-661, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:30:10"
-662, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:30:10"
-663, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:30:10"
-664, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:30:10"
-665, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:30:10"
-666, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:30:10"
-667, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:17"
-668, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:17"
-669, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:31:18"
-670, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:20"
-671, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:24"
-672, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:25"
-673, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:25"
-674, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:28"
-675, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:28"
-676, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:28"
-677, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:28"
-678, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:29"
-679, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:29"
-680, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:31"
-681, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:31"
-682, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:32"
-683, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:32"
-684, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:32"
-685, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:32"
-686, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:32"
-687, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:33"
-688, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:33"
-689, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:34"
-690, "2", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 17:31:35"
-691, "2", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 17:31:35"
-692, "2", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 17:31:36"
-693, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:31:37"
-694, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:31:37"
-695, "2", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 17:31:38"
-696, "2", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 17:31:38"
-697, "2", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 17:31:38"
-698, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:31:38"
-699, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:39"
-700, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:31:40"
-701, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:41"
-702, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:42"
-703, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:31:43"
-704, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:31:44"
-705, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:31:44"
-706, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:47"
-707, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:48"
-708, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:48"
-709, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:48"
-710, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:48"
-711, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:49"
-712, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:31:49"
-713, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:31:49"
-714, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:32:16"
-715, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:32:16"
-716, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:32:17"
-717, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:32:18"
-718, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:32:19"
-719, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:32:20"
-720, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:32:21"
-721, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:32:21"
-722, "2", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 17:32:22"
-723, "2", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 17:32:26"
-724, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:32:27"
-725, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:32:29"
-726, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:33:25"
-727, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:33:25"
-728, "2", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 17:33:26"
-729, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:33:29"
-730, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:33:33"
-731, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:33:37"
-732, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:33:40"
-733, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:33:41"
-734, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:33:42"
-735, "2", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 17:33:43"
-736, "2", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 17:33:43"
-737, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:39:31"
-738, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:39:32"
-739, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:39:33"
-740, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:39:33"
-741, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:39:33"
-742, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:39:33"
-743, "2", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 17:39:34"
-744, "2", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 17:39:34"
-745, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:38"
-746, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:39:38"
-747, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:38"
-748, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:39:38"
-749, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:39:38"
-750, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:38"
-751, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:39:38"
-752, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:38"
-753, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:38"
-754, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 17:39:38"
-755, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:41"
-756, "2", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 17:39:41"
-757, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:41"
-758, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:41"
-759, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:41"
-760, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:42"
-761, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 17:39:42"
-762, "2", "S1_BasicMechanics", "IA_Menu_Toggle_Left", "Started", "2024-4-6 17:39:42"
-763, "2", "S1_BasicMechanics", "IA_Menu_Toggle_Left", "Completed", "2024-4-6 17:39:42"
-764, "2", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 17:39:42"
-765, "2", "MainMenu", "IA_Move", "Started", "2024-4-6 18:45:55"
-766, "2", "MainMenu", "IA_Move", "Completed", "2024-4-6 18:45:55"
-767, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-6 18:46:5"
-768, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-6 18:46:5"
-769, "8", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:46:29"
-770, "8", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:46:29"
-771, "8", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:46:31"
-772, "8", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:46:31"
-773, "8", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:46:32"
-774, "8", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:46:32"
-775, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 18:46:33"
-776, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 18:46:35"
-777, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 18:46:35"
-778, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 18:46:35"
-779, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 18:46:36"
-780, "8", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 18:46:37"
-781, "8", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 18:46:40"
-782, "8", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 18:46:40"
-783, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 18:52:5"
-784, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 18:52:5"
-785, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:7"
-786, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:7"
-787, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:8"
-788, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:8"
-789, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:9"
-790, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:9"
-791, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:10"
-792, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:10"
-793, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:11"
-794, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:11"
-795, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:11"
-796, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:11"
-797, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:12"
-798, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:12"
-799, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:12"
-800, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:12"
-801, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:12"
-802, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:12"
-803, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:13"
-804, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:13"
-805, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:15"
-806, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:15"
-807, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:15"
-808, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:15"
-809, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:16"
-810, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:16"
-811, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:17"
-812, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:17"
-813, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:18"
-814, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:18"
-815, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:18"
-816, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:19"
-817, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:21"
-818, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:24"
-819, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:24"
-820, "9", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 18:52:25"
-821, "9", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 18:52:26"
-822, "9", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 18:52:28"
-823, "9", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 18:52:29"
-824, "9", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 18:52:31"
-825, "9", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 18:52:32"
-826, "9", "S1_BasicMechanics", "IA_Grab_Left", "Started", "2024-4-6 18:52:34"
-827, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:37"
-828, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:39"
-829, "9", "S1_BasicMechanics", "IA_Grab_Left", "Completed", "2024-4-6 18:52:41"
-830, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:42"
-831, "9", "S1_BasicMechanics", "IA_Grab_Right", "Started", "2024-4-6 18:52:44"
-832, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:45"
-833, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:45"
-834, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:46"
-835, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:47"
-836, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:47"
-837, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:47"
-838, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:48"
-839, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:48"
-840, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:48"
-841, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:49"
-842, "9", "S1_BasicMechanics", "IA_Move", "Started", "2024-4-6 18:52:49"
-843, "9", "S1_BasicMechanics", "IA_Move", "Completed", "2024-4-6 18:52:49"
-844, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:52"
-845, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:52"
-846, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:53"
-847, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:54"
-848, "9", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Started", "2024-4-6 18:52:55"
-849, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:55"
-850, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 18:52:55"
-851, "9", "S1_BasicMechanics", "IA_Menu_Interact_Right", "Completed", "2024-4-6 18:52:55"
-852, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 18:52:55"
-853, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Started", "2024-4-6 18:52:55"
-854, "9", "S1_BasicMechanics", "IA_Menu_Interact_Left", "Completed", "2024-4-6 18:52:56"
-855, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:56"
-856, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:56"
-857, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:57"
-858, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:57"
-859, "9", "S1_BasicMechanics", "IA_Grab_Right", "Completed", "2024-4-6 18:52:58"
-860, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:27:55"
-861, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:27:55"
-862, "2", "Default", "IA_Move", "Started", "2024-4-21 20:27:56"
-863, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:27:57"
-864, "2", "Default", "IA_Move", "Started", "2024-4-21 20:27:58"
-865, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:27:58"
-866, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:2"
-867, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:28:2"
-868, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:4"
-869, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:4"
-870, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:4"
-871, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:4"
-872, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:5"
-873, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:5"
-874, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:5"
-875, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:5"
-876, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:6"
-877, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:6"
-878, "2", "Default", "IA_Move", "Started", "2024-4-21 20:28:6"
-879, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:28:7"
-880, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:8"
-881, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:28:8"
-882, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:8"
-883, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:28:9"
-884, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:11"
-885, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:11"
-886, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:11"
-887, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:12"
-888, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:13"
-889, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:28:13"
-890, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:14"
-891, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:28:14"
-892, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:14"
-893, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:28:14"
-894, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:15"
-895, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:28:15"
-896, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:28:16"
-897, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:28:16"
-898, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:28:17"
-899, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:28:17"
-900, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:29"
-901, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:29"
-902, "2", "Default", "IA_Grab_Left", "Started", "2024-4-21 20:29:30"
-903, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:30"
-904, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:31"
-905, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:31"
-906, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:33"
-907, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:33"
-908, "2", "Default", "IA_Move", "Started", "2024-4-21 20:29:35"
-909, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:29:35"
-910, "2", "Default", "IA_Move", "Started", "2024-4-21 20:29:35"
-911, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:29:35"
-912, "2", "Default", "IA_Move", "Started", "2024-4-21 20:29:36"
-913, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:29:36"
-914, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:38"
-915, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:38"
-916, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:39"
-917, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:39"
-918, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:40"
-919, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:40"
-920, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:40"
-921, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:40"
-922, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:41"
-923, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:41"
-924, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:42"
-925, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:42"
-926, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:43"
-927, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:43"
-928, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:44"
-929, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:44"
-930, "2", "Default", "IA_Grab_Left", "Started", "2024-4-21 20:29:44"
-931, "2", "Default", "IA_Grab_Left", "Completed", "2024-4-21 20:29:45"
-932, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:46"
-933, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:46"
-934, "2", "Default", "IA_Grab_Left", "Started", "2024-4-21 20:29:47"
-935, "2", "Default", "IA_Grab_Left", "Completed", "2024-4-21 20:29:49"
-936, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:49"
-937, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:49"
-938, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:51"
-939, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:51"
-940, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:53"
-941, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:53"
-942, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:54"
-943, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:29:54"
-944, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:29:55"
-945, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:55"
-946, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:56"
-947, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:57"
-948, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:29:57"
-949, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:29:58"
-950, "2", "Default", "IA_Move", "Started", "2024-4-21 20:29:58"
-951, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:29:58"
-952, "2", "Default", "IA_Move", "Started", "2024-4-21 20:29:59"
-953, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:29:59"
-954, "2", "Default", "IA_Move", "Started", "2024-4-21 20:30:0"
-955, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:30:0"
-956, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:30:2"
-957, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:30:2"
-958, "2", "Default", "IA_Menu_Interact_Left", "Started", "2024-4-21 20:30:4"
-959, "2", "Default", "IA_Menu_Interact_Left", "Completed", "2024-4-21 20:30:5"
-960, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:30:6"
-961, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:30:6"
-962, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:30:8"
-963, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:30:8"
-964, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:30:9"
-965, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:30:9"
-966, "2", "Default", "IA_Move", "Started", "2024-4-21 20:30:9"
-967, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:30:10"
-968, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:30:11"
-969, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:30:11"
-970, "2", "Default", "IA_Move", "Started", "2024-4-21 20:30:12"
-971, "2", "Default", "IA_Move", "Completed", "2024-4-21 20:30:12"
-972, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:30:13"
-973, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:30:13"
-974, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:30:14"
-975, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:30:14"
-976, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:30:14"
-977, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:30:15"
-978, "2", "Default", "IA_Menu_Interact_Right", "Started", "2024-4-21 20:30:15"
-979, "2", "Default", "IA_Grab_Right", "Started", "2024-4-21 20:30:15"
-980, "2", "Default", "IA_Menu_Interact_Right", "Completed", "2024-4-21 20:30:16"
-981, "2", "Default", "IA_Grab_Right", "Completed", "2024-4-21 20:30:16"
-982, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:30:57"
-983, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:30:57"
-984, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:31:5"
-985, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:31:5"
-986, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:31:5"
-987, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:31:6"
-988, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:31:6"
-989, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:31:6"
-990, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:31:7"
-991, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:31:7"
-992, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:31:7"
-993, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:31:8"
-994, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:9"
-995, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:9"
-996, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:31:9"
-997, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:9"
-998, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:31:10"
-999, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:10"
-1000, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:10"
-1001, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:10"
-1002, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:10"
-1003, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:10"
-1004, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:11"
-1005, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:11"
-1006, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:11"
-1007, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:11"
-1008, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:12"
-1009, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:12"
-1010, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:12"
-1011, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:13"
-1012, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:14"
-1013, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:14"
-1014, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:14"
-1015, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:15"
-1016, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:15"
-1017, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:15"
-1018, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:15"
-1019, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:15"
-1020, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:15"
-1021, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:15"
-1022, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:16"
-1023, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:16"
-1024, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:16"
-1025, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:17"
-1026, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:17"
-1027, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:17"
-1028, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:18"
-1029, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:18"
-1030, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:19"
-1031, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:19"
-1032, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:25"
-1033, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:25"
-1034, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:25"
-1035, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:30"
-1036, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:30"
-1037, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:30"
-1038, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:33"
-1039, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:33"
-1040, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:36"
-1041, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:36"
-1042, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:38"
-1043, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:38"
-1044, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:39"
-1045, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:41"
-1046, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:43"
-1047, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:31:44"
-1048, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:44"
-1049, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:44"
-1050, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:44"
-1051, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:49"
-1052, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:49"
-1053, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:31:49"
-1054, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:50"
-1055, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:50"
-1056, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:51"
-1057, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:51"
-1058, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:52"
-1059, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:52"
-1060, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:53"
-1061, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:53"
-1062, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:31:55"
-1063, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:31:55"
-1064, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:31:57"
-1065, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:31:57"
-1066, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:0"
-1067, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:0"
-1068, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:4"
-1069, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:4"
-1070, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:6"
-1071, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:7"
-1072, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:32:7"
-1073, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:7"
-1074, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:7"
-1075, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:32:7"
-1076, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:32:7"
-1077, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:32:7"
-1078, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:10"
-1079, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:10"
-1080, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:12"
-1081, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:12"
-1082, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:15"
-1083, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:15"
-1084, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:17"
-1085, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:17"
-1086, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:20"
-1087, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:20"
-1088, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:21"
-1089, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:21"
-1090, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:22"
-1091, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:22"
-1092, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:22"
-1093, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:23"
-1094, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:25"
-1095, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:25"
-1096, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:26"
-1097, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:26"
-1098, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:27"
-1099, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:27"
-1100, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:28"
-1101, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:28"
-1102, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:29"
-1103, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:29"
-1104, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:29"
-1105, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:29"
-1106, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:30"
-1107, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:30"
-1108, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:31"
-1109, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:31"
-1110, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:32"
-1111, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:32"
-1112, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:32"
-1113, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:33"
-1114, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:33"
-1115, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:33"
-1116, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:35"
-1117, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:35"
-1118, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:36"
-1119, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:36"
-1120, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:37"
-1121, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:37"
-1122, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:38"
-1123, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:38"
-1124, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:39"
-1125, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:39"
-1126, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:40"
-1127, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:40"
-1128, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:41"
-1129, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:41"
-1130, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:32:42"
-1131, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:32:42"
-1132, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:47"
-1133, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:48"
-1134, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:32:53"
-1135, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:32:53"
-1136, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:55"
-1137, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:56"
-1138, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:32:57"
-1139, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:32:57"
-1140, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:32:59"
-1141, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:32:59"
-1142, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:2"
-1143, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:2"
-1144, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:3"
-1145, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:3"
-1146, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:4"
-1147, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:4"
-1148, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:5"
-1149, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:5"
-1150, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:33:6"
-1151, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:7"
-1152, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:7"
-1153, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:33:9"
-1154, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:10"
-1155, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:10"
-1156, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:13"
-1157, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:13"
-1158, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:14"
-1159, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:14"
-1160, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:16"
-1161, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:16"
-1162, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:17"
-1163, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:17"
-1164, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:17"
-1165, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:18"
-1166, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:18"
-1167, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:18"
-1168, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:19"
-1169, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:20"
-1170, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:20"
-1171, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:20"
-1172, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:22"
-1173, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:22"
-1174, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:23"
-1175, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:23"
-1176, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:24"
-1177, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:24"
-1178, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:25"
-1179, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:25"
-1180, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:33:27"
-1181, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:33:27"
-1182, "11", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:33:28"
-1183, "11", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:33:28"
-1184, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:28"
-1185, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:29"
-1186, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:29"
-1187, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:29"
-1188, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:29"
-1189, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:29"
-1190, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:30"
-1191, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:30"
-1192, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:32"
-1193, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:32"
-1194, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:34"
-1195, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:34"
-1196, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:33:36"
-1197, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:37"
-1198, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:38"
-1199, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:38"
-1200, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:38"
-1201, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:39"
-1202, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:39"
-1203, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:44"
-1204, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:44"
-1205, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:33:44"
-1206, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:45"
-1207, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:45"
-1208, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:45"
-1209, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:46"
-1210, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:47"
-1211, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:47"
-1212, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:48"
-1213, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:48"
-1214, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:48"
-1215, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:49"
-1216, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:33:49"
-1217, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:51"
-1218, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:51"
-1219, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:33:51"
-1220, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:33:51"
-1221, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:54"
-1222, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:54"
-1223, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:33:55"
-1224, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:55"
-1225, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:55"
-1226, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:57"
-1227, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:57"
-1228, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:58"
-1229, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:58"
-1230, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:33:59"
-1231, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:33:59"
-1232, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:33:59"
-1233, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:33:59"
-1234, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:1"
-1235, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:1"
-1236, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:2"
-1237, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:2"
-1238, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:3"
-1239, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:3"
-1240, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:3"
-1241, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:3"
-1242, "11", "MainMenu", "IA_Grab_Left", "Started", "2024-4-22 12:34:5"
-1243, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:5"
-1244, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:5"
-1245, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:7"
-1246, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:7"
-1247, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:8"
-1248, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:8"
-1249, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:8"
-1250, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:9"
-1251, "11", "MainMenu", "IA_Grab_Left", "Completed", "2024-4-22 12:34:12"
-1252, "11", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:12"
-1253, "11", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:12"
-1254, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:14"
-1255, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:14"
-1256, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:14"
-1257, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:15"
-1258, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:15"
-1259, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:15"
-1260, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:15"
-1261, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:15"
-1262, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:15"
-1263, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:15"
-1264, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:16"
-1265, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:17"
-1266, "11", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:18"
-1267, "11", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:18"
-1268, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:19"
-1269, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:20"
-1270, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:20"
-1271, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:21"
-1272, "11", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:21"
-1273, "11", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:22"
-1274, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:30"
-1275, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:30"
-1276, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:31"
-1277, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:31"
-1278, "2", "MainMenu", "IA_Menu_Interact_Left", "Started", "2024-4-22 12:34:32"
-1279, "2", "MainMenu", "IA_Menu_Interact_Left", "Completed", "2024-4-22 12:34:32"
-1280, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:36"
-1281, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:36"
-1282, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:36"
-1283, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:36"
-1284, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:37"
-1285, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:37"
-1286, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:38"
-1287, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:38"
-1288, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:38"
-1289, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:38"
-1290, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:39"
-1291, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:39"
-1292, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:40"
-1293, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:40"
-1294, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:42"
-1295, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:43"
-1296, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:44"
-1297, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:44"
-1298, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:44"
-1299, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:45"
-1300, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:51"
-1301, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:52"
-1302, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:52"
-1303, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:52"
-1304, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:34:53"
-1305, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:34:54"
-1306, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:55"
-1307, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:55"
-1308, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:58"
-1309, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:58"
-1310, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:34:58"
-1311, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:34:58"
-1312, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:34:59"
-1313, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:34:59"
-1314, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:35:0"
-1315, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:35:0"
-1316, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:35:1"
-1317, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:35:1"
-1318, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:35:2"
-1319, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:35:2"
-1320, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:35:3"
-1321, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:35:3"
-1322, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:35:5"
-1323, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:35:5"
-1324, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:5"
-1325, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:6"
-1326, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:6"
-1327, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:6"
-1328, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:6"
-1329, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:7"
-1330, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:7"
-1331, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:7"
-1332, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:35:9"
-1333, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:35:9"
-1334, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:35:10"
-1335, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:35:10"
-1336, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:10"
-1337, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:11"
-1338, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:11"
-1339, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:12"
-1340, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:35:12"
-1341, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:35:12"
-1342, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:56:33"
-1343, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:56:33"
-1344, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:56:33"
-1345, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:56:33"
-1346, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:56:52"
-1347, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:56:54"
-1348, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:56:54"
-1349, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:56:55"
-1350, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:56:55"
-1351, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:56:56"
-1352, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:56:57"
-1353, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:56:57"
-1354, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:56:59"
-1355, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:56:59"
-1356, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:56:59"
-1357, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:0"
-1358, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:0"
-1359, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:1"
-1360, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:1"
-1361, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:1"
-1362, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:2"
-1363, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:2"
-1364, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:4"
-1365, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:4"
-1366, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:5"
-1367, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:5"
-1368, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:7"
-1369, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:7"
-1370, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:7"
-1371, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:7"
-1372, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:8"
-1373, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:8"
-1374, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:9"
-1375, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:9"
-1376, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:10"
-1377, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:10"
-1378, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:13"
-1379, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:13"
-1380, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:14"
-1381, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:14"
-1382, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:15"
-1383, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:15"
-1384, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:16"
-1385, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:16"
-1386, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:17"
-1387, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:17"
-1388, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:18"
-1389, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:21"
-1390, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:22"
-1391, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:22"
-1392, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:23"
-1393, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:23"
-1394, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:23"
-1395, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:23"
-1396, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:25"
-1397, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:25"
-1398, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:25"
-1399, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:26"
-1400, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:26"
-1401, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:26"
-1402, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:57:28"
-1403, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:57:28"
-1404, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:57:28"
-1405, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:57:28"
-1406, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:57:29"
-1407, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:57:30"
-1408, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:58:45"
-1409, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:58:46"
-1410, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:58:53"
-1411, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:58:53"
-1412, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:58:59"
-1413, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:0"
-1414, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:59:0"
-1415, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:4"
-1416, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:59:4"
-1417, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:5"
-1418, "2", "MainMenu", "IA_Grab_Right", "Started", "2024-4-22 12:59:6"
-1419, "2", "MainMenu", "IA_Menu_Interact_Right", "Started", "2024-4-22 12:59:6"
-1420, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:59:6"
-1421, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:6"
-1422, "2", "MainMenu", "IA_Menu_Interact_Right", "Completed", "2024-4-22 12:59:6"
-1423, "2", "MainMenu", "IA_Grab_Right", "Completed", "2024-4-22 12:59:6"
-1424, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:59:7"
-1425, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:7"
-1426, "2", "MainMenu", "IA_Move", "Started", "2024-4-22 12:59:8"
-1427, "2", "MainMenu", "IA_Move", "Completed", "2024-4-22 12:59:8"
+id,user_id,scenario_type,input_type,input_state,event_datetime;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
