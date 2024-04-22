@@ -931,3 +931,5 @@ id,user_id,scenario_type,actor_id,event_type,event_datetime
 929, "11", "MainMenu", "2", "start_detection", "2024-4-22 12:34:22"
 930, "11", "MainMenu", "2", "stop_detection", "2024-4-22 12:34:22"
 931, "11", "MainMenu", "2", "start_detection", "2024-4-22 12:34:22"
+932, "0","Developer", "Default", "2","0", "grab", "2024-4-22 15:47:41"
+933, "0","Developer", "Default", "2","0", "release", "2024-4-22 15:47:41"
